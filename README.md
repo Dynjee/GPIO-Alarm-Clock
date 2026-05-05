@@ -11,6 +11,8 @@ OConnect the positive pin of the buzzer to GPIO 18
 
 Connect the negative pin of the buzzer to GPIO 6 
 
+<img src="GPIOPINS.png" width="200">
+
 Step 3: Write a Python script (alarm_clock.py) to control the GPIO pins and trigger the buzzer at a scheduled time. Save the script in a folder
 
 Step 4: Open the command-line interface (CLI), navigate to the script folder:

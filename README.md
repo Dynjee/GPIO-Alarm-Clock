@@ -9,7 +9,7 @@ Step 2:
 Set up the breadboard and connect the passive buzzer module to the GPIO pins:
 
 Connect the positive pin of the buzzer to GPIO 18
-Connect the negative pin of the buzzer to GPIO 6
+Connect the negative pin of the buzzer to PIN 6 (GND)
 (Refer to the GPIO pin diagram below for guidance.)
 
 <img src="GPIOPINS.png" width="500">
